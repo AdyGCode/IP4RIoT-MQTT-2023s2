@@ -1,4 +1,4 @@
-# Program: Publisher
+# Program: publish.py
 # Author:  Adrian Gould <Adrian.Gould@nmtafe.wa.edu.au>
 # Purpose: Used to demonstrate how to publish to an MQTT topic
 #          using the Paho MQTT Client in Python

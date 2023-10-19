@@ -1,4 +1,4 @@
-# Program: Subscriber
+# Program: subscribe.py
 # Author:  Adrian Gould <Adrian.Gould@nmtafe.wa.edu.au>
 # Purpose: Used to demonstrate how to subscribe to an MQTT topic
 #          using the Paho MQTT Client in Python
